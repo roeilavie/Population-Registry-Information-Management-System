@@ -1,0 +1,7 @@
+﻿  Source.c
+c:\projects\עקרונות התכנות\last mission\mission\mission\source.c(413): warning C4477: 'scanf' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'char *'
+  c:\projects\עקרונות התכנות\last mission\mission\mission\source.c(413): note: consider using '%hhd' in the format string
+c:\projects\עקרונות התכנות\last mission\mission\mission\source.c(417): warning C4477: 'scanf' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'char *'
+  c:\projects\עקרונות התכנות\last mission\mission\mission\source.c(417): note: consider using '%hhd' in the format string
+c:\projects\עקרונות התכנות\last mission\mission\mission\source.c(812): warning C4172: returning address of local variable or temporary: res
+  mission.vcxproj -> C:\projects\עקרונות התכנות\Last mission\mission\Debug\mission.exe
